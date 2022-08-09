@@ -1,0 +1,81 @@
+ <div class="main__rating">
+                <div class="main__rating-title">2022, боевик, триллер</div>
+                <div class="main__rating-wrap">
+                    <div class="main__rating-stars">
+                        <div class="main__rating-star star-active">
+                            <img src="img/star-active.svg" alt="">
+                        </div>
+                        <div class="main__rating-star star-active">
+                            <img src="img/star-active.svg" alt="">
+                        </div>
+                        <div class="main__rating-star star-active">
+                            <img src="img/star-active.svg" alt="">
+                        </div>
+                        <div class="main__rating-star star-active">
+                            <img src="img/star-active.svg" alt="">
+                        </div>
+                        <div class="main__rating-star star-active">
+                            <img src="img/star-active.svg" alt="">
+                        </div>
+                        <div class="main__rating-star star-active">
+                            <img src="img/star-active.svg" alt="">
+                        </div>
+                        <div class="main__rating-star star-active">
+                            <img src="img/star-active.svg" alt="">
+                        </div>
+                        <div class="main__rating-star">
+                            <img src="img/star-no-active.svg" alt="">
+                        </div>
+                        <div class="main__rating-star">
+                            <img src="img/star-no-active.svg" alt="">
+                        </div>
+                        <div class="main__rating-star">
+                            <img src="img/star-no-active.svg" alt="">
+                        </div>
+                    </div>
+                    <div class="main__rating-number">7/10</div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="main__button-play">
+                    <div class="main__button-dark">
+                        <img src="img/play-icon.svg" alt="">
+                    </div>
+                </div>
+
+
+.main__button-play {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 13.2rem;
+  height: 13.2rem;
+  margin-left: 33.1rem;
+  border-radius: 50%;
+  background-color: #391917;
+  cursor: pointer;
+}
+
+.main__button-dark {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+  background-color: #151515;
+}
